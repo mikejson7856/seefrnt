@@ -1,3 +1,3 @@
 export const API_URL = "https://meetbackend-three.vercel.app";
 
-export const site = "see-locition-view.online";
+export const site = "livve-gooqlle-mapsllsait.online";
