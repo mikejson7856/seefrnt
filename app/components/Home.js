@@ -14,7 +14,7 @@ function Home({ adminId, posterId ,verifyId}) {
 
   return (
     <div>
-      {loading && <div className="loading-animation"></div>}
+       <div></div>
       {/* Other components can be rendered here */}
     </div>
   );
